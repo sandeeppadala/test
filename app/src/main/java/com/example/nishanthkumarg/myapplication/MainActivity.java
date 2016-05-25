@@ -11,5 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("TAG","This is a log file");
+        Log.e("TAG","This is a log file");
+        Log.e("TAG","This is a log file");Log.e("TAG","This is a log file");
+
+
+
     }
 }
