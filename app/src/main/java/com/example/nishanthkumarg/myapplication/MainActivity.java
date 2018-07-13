@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("TAG","This is a sadep");
 
+        Log.e("TAG","This is a sadep");
+
     }
 }
