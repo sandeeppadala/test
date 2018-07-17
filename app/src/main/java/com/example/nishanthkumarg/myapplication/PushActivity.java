@@ -27,6 +27,8 @@ public class PushActivity extends AppCompatActivity {
         setContentView(R.layout.activity_push);
         setContentView(R.layout.activity_push);
         setContentView(R.layout.activity_push);
+        setContentView(R.layout.activity_push);
+        setContentView(R.layout.activity_push);
     }
 
 }
