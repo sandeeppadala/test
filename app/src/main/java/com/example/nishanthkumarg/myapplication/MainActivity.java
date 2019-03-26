@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("TAG","This is a log file");
         Log.e("TAG","This is a log file")
-        Log.e("TAG","This is a log file");
+       // Log.e("TAG","This is a log file");
         //Log.e("TAG","This is a log file");
        // Log.e("TAG","This is a log file");
     }
